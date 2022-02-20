@@ -13,3 +13,5 @@ Copy of the https://monogramcc.com/shop/
 ## Copy Website
 <img src="gifs/copywebsite1.gif" alt="">
 <img src="gifs/copywebsite.gif" alt="">
+
+<b>To test, click in Code > Zip > Download and Execute index.html</b>
