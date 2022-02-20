@@ -173,6 +173,8 @@ h1{
     grid-template-rows: 1fr 6fr 0.5fr 6fr 1fr;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
+    
+    width: 100%;
     }
     
     .div4 { grid-area: 2 / 2 / 3 / 3; }
@@ -181,6 +183,14 @@ h1{
     .div7 { grid-area: 4 / 6 / 5 / 7; }
     .div8 { grid-area: 4 / 4 / 5 / 5; }
     .div9 { grid-area: 4 / 2 / 5 / 3; }
+
+.parent2 img{
+    max-width: 300px;
+}
+
+.parent2 p{
+    font-size: 1.2rem;
+}
 
 footer{
     background-color: #1a2456;
