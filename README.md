@@ -10,13 +10,17 @@ Copy of the https://monogramcc.com/shop/
 > HTML, CSS, JS and css variables
 ```
 
+<div style="float:right">
+  
 ## Original Website
 <img src="gifs/originalwebsite.gif" alt="">
 
 ## Copy Website
+  
 <img src="gifs/copywebsite1.gif" alt="">
 <img src="gifs/copywebsite.gif" alt="">
-
+</div>
+  
 ```sh
 >To test, click in Code > Zip > Download and Execute index.html<
 ```
