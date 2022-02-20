@@ -1,11 +1,14 @@
 # Monogram-copy
 Copy of the https://monogramcc.com/shop/
 
-<h4>FUNCTIONS</h4>
-- Sticky Navbar <br>
-- Hover Effects <br>
-- Same colors pallete, fonts and images <br>
-- HTML, CSS, JS and css variables
+<h3>FUNCTIONS</h3>
+
+```sh
+> Sticky Navbar
+> Hover Effects
+> Same colors pallete, fonts and images 
+> HTML, CSS, JS and css variables
+```
 
 ## Original Website
 <img src="gifs/originalwebsite.gif" alt="">
@@ -14,4 +17,6 @@ Copy of the https://monogramcc.com/shop/
 <img src="gifs/copywebsite1.gif" alt="">
 <img src="gifs/copywebsite.gif" alt="">
 
-<b>To test, click in Code > Zip > Download and Execute index.html</b>
+```sh
+>To test, click in Code > Zip > Download and Execute index.html<
+```
