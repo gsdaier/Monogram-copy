@@ -17,8 +17,12 @@ Copy of the https://monogramcc.com/shop/
 
 ## Copy Website
   
+- [x] Hover images
+- [x] Dropdown Menu
+  
 <img src="gifs/copywebsite1.gif" alt="">
-<img src="gifs/copywebsite.gif" alt="">
+  
+<img src="gifs/dropdownmenu.gif" alt="">
 </div>
   
 ```sh
