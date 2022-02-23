@@ -27,4 +27,5 @@ Copy of the https://monogramcc.com/shop/
   
 ```sh
 >To test, click in Code > Zip > Download and Execute index.html<
+>Or use $ git clone https://github.com/gsdaier/Monogram-copy.git<
 ```
